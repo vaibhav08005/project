@@ -17,7 +17,7 @@ print("1. Addition")
 print("2. Subtraction")
 print("3. Multiplication")
 print("4. Division")
-
+print("done")
 while True:
     choice = input("Enter choice (1/2/3/4): ")
 
